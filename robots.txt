@@ -1,0 +1,9 @@
+# robots.txt - prakritee ayurveda
+User-agent: Googlebot
+Disallow: 
+User-agent: googlebot-mobile
+Disallow:  
+User-agent: yahoo-mmcrawler
+Disallow:
+Disallow: /cgi-bin/
+Sitemap: http://www.prakriteeayurveda.nl/sitemap.xml
